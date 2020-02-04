@@ -1,6 +1,6 @@
 # Containers from Scratch
 
-## Intdroduction
+## Introduction
 
 ## Demo 1
 
